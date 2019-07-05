@@ -1,3 +1,5 @@
 你好，git
 git is a distrtibuted version control system.
 git is a free software distributed under the GPL
+
+git is good
